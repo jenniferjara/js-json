@@ -1,0 +1,21 @@
+{
+  "name": "js-jason",
+  "version": "1.0.0",
+  "description": "JS, AJAX, JSON",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "JS",
+    "jQuery",
+    "Ajax",
+    "JSON"
+  ],
+  "author": "Jennifer Jara <lisbet.jara@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

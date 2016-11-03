@@ -1,0 +1,17 @@
+{
+	"nombre": "Jennifer",
+	"apellido": "Jara",
+	"edad": "25",
+	"fechaNac": "4/7/91",
+	"mail": "lisbet.jara@gmail.com",
+	"hobbies": [
+		"leer",
+		"escuchar música",
+		"ir a la playa"
+	],
+	"mascota": {
+		"tipo": "perro",
+		"nombre": "Chiqui",
+		"edad": "2 años"
+	}
+}
